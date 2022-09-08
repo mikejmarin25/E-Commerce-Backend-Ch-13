@@ -19,3 +19,22 @@
 - WHEN I test API POST, PUT, and DELETE routes in Insomnia
 - THEN I am able to successfully create, update, and delete data in my database
 
+## Brief Description
+E-commerce backend:
+- Connects routes to different API endpoints to modify database information
+- Implements GetAll, GetById, Update, Delete, Add functionality
+- Uses the following NPM tools: dotenv, sequelize, express, mysql2
+
+# Screenshots of Application and Endpoints 
+
+### Starting up the application
+<img width="1161" alt="Screen Shot 2022-09-07 at 22 49 00" src="https://user-images.githubusercontent.com/105763252/189023321-e040f728-538c-4d21-be6c-f48a0e642c82.png">
+
+### API endpoints 
+<img width="1116" alt="Screen Shot 2022-09-07 at 22 47 35" src="https://user-images.githubusercontent.com/105763252/189023371-7a5f49ac-7271-44e8-b5aa-af5b67558288.png">
+
+### Code Sample for one of the Get Requests
+<img width="776" alt="Screen Shot 2022-09-07 at 22 48 07" src="https://user-images.githubusercontent.com/105763252/189023407-7b35e5c1-cca0-4674-ac31-13d8fdaf7f40.png">
+
+## Git Hub Repository
+https://github.com/mikejmarin25/E-Commerce-Backend-Ch-13/
